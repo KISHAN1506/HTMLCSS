@@ -1,0 +1,19 @@
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.p1{
+    font-family: Arial;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.p2{
+    font-family: Arial;
+    font-size: 30px;
+    text-align: center;
+}
+.p3{
+    text-decoration: underline;
+}
